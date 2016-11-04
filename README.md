@@ -1,18 +1,26 @@
 # Mac Setup
 
+## Browsers
 * Install [Chrome](https://www.google.de/chrome/browser/desktop/)
+
+## Git
 * Install [Git](https://git-scm.com/download/mac)
   * Update global username and email
   ```shell
   git config --global user.name "John Doe"
   git config --global user.email johndoe@example.com
   ```
+* Install [SourceTree](https://www.sourcetreeapp.com/)
+
+## JavaScript Development
 * Install [Node.js](https://nodejs.org/en/)
 * Install [Bower](https://bower.io/)
   ```shell
   npm install -g bower
   ```
 * Install the [Grunt CLI](npm install -g grunt-cli)
+
+## Editors and IDEs
 * Install [Webstorm](https://www.jetbrains.com/webstorm/download/)
 * Install [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 * Install [Atom](https://atom.io)
@@ -42,8 +50,14 @@
   ```shell
   apm install seti-ui
   ```
+
+## Backup
 * Install the [ownCloud client](https://owncloud.org/install/#install-clients)
+* Install [Evernote](https://evernote.com/intl/de/download/)
+
+## E-Mail
 * Install [Thunderbird](https://www.mozilla.org/en/thunderbird/)
+
+## LaTex
 * Install [MacTeX](https://tug.org/mactex/)
 * Install [Texmaker](http://www.xm1math.net/texmaker/download.html)
-* Install [Evernote](https://evernote.com/intl/de/download/)
