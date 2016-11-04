@@ -15,17 +15,17 @@
 ## JavaScript Development
 * Install [Node.js](https://nodejs.org/en/)
 * Install [Bower](https://bower.io/)
-  ```shell
-  npm install -g bower
-  ```
+```shell
+npm install -g bower
+```
 * Install the [Grunt CLI](http://gruntjs.com/)
-  ```shell
-  npm install -g grunt-cli
-  ```
+```shell
+npm install -g grunt-cli
+```
 * Install the [Gulp CLI](http://gulpjs.com/)
-  ```shell
-  npm install --global gulp-cli
-  ```
+```shell
+npm install --global gulp-cli
+```
 
 ## Editors and IDEs
 * Install [Webstorm](https://www.jetbrains.com/webstorm/download/)
