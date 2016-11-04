@@ -2,7 +2,19 @@
 
 * Install [Chrome](https://www.google.de/chrome/browser/desktop/)
 * Install [Git](https://git-scm.com/download/mac)
+  * Update global username and email
+  ```shell
+  git config --global user.name "John Doe"
+  git config --global user.email johndoe@example.com
+  ```
 * Install [Node.js](https://nodejs.org/en/)
+* Install [Bower](https://bower.io/)
+  ```shell
+  npm install -g bower
+  ```
+* Install the [Grunt CLI](npm install -g grunt-cli)
+* Install [Webstorm](https://www.jetbrains.com/webstorm/download/)
+* Install [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 * Install [Atom](https://atom.io)
   * Install Atom Shell Commands via "Atom --> Install Shell Commands"
   * Install the following Atom plugins:
@@ -30,3 +42,8 @@
   ```shell
   apm install seti-ui
   ```
+* Install the [ownCloud client](https://owncloud.org/install/#install-clients)
+* Install [Thunderbird](https://www.mozilla.org/en/thunderbird/)
+* Install [MacTeX](https://tug.org/mactex/)
+* Install [Texmaker](http://www.xm1math.net/texmaker/download.html)
+* Install [Evernote](https://evernote.com/intl/de/download/)
