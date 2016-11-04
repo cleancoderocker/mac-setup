@@ -18,7 +18,14 @@
   ```shell
   npm install -g bower
   ```
-* Install the [Grunt CLI](npm install -g grunt-cli)
+* Install the [Grunt CLI](http://gruntjs.com/)
+  ```shell
+  npm install -g grunt-cli
+  ```
+* Install the [Gulp CLI](http://gulpjs.com/)
+  ```shell
+  npm install --global gulp-cli
+  ```
 
 ## Editors and IDEs
 * Install [Webstorm](https://www.jetbrains.com/webstorm/download/)
