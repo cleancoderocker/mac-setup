@@ -26,6 +26,16 @@ npm install -g grunt-cli
 ```shell
 npm install --global gulp-cli
 ```
+* Install [mocha](https://mochajs.org/)
+```shell
+npm install --global mocha
+```
+
+## Web Development
+* Install [Sass](http://sass-lang.com/)
+```shell
+gem install sass
+```
 
 ## Editors and IDEs
 * Install [Webstorm](https://www.jetbrains.com/webstorm/download/)
