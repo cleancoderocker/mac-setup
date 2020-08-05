@@ -1,5 +1,9 @@
 # Mac Setup
 
+## General
+
+* Install [iTerm2](https://www.iterm2.com/)
+
 ## Browsers
 * Install [Chrome](https://www.google.de/chrome/browser/desktop/)
 
